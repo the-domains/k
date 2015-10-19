@@ -1,13 +1,28 @@
+name: K
+favicon: null
 layout_spectrum: 0.4553191
 typography_spectrum: 0.4234042
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1108179
-  lightness: 0.0515507
-  brandStrength: 0.6021277
   brandColors:
     - '#0A070A'
     - '#B5B2AD'
     - '#DFE0D8'
     - '#C64027'
     - '#4B3964'
+  brandStrength: 0.6021277
+  lightness: 0.0515507
+  saturation: 0.1108179
   rhythmicContrast: 0.4570723
+purpose: []
